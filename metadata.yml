@@ -1,0 +1,12 @@
+---
+:id: 77754778
+:submitters:
+- :name: Quan Minh Do
+  :email: doqm1@uci.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-30 22:16:16.280227000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-30 15:16:16.280227000 Z
+:status: processed
+:score: 30.0
